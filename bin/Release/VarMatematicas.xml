@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VarMatematicas
+</name>
+</assembly>
+<members>
+<member name="M:VAR.Matematicas.MetodoSecante(System.Int32,System.Double,System.Double,System.Double,System.Double,System.Double)">
+	<summary>
+ La Función de Metodo de Secante, requiere estar en un proceso iterativo, 
+ devuelve un valor de tipo Double.
+ </summary>
+	<param name="_iIteracion"></param>
+	<param name="_dblValorDeseado"></param>
+	<param name="_dblXn"></param>
+	<param name="_dblGXn"></param>
+	<param name="_dblXn_ant"></param>
+	<param name="_dblGXn_ant"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VAR.Matematicas.ValorMercadoOST(System.Int32,System.Int32,System.Int32,System.Double,System.Double,System.Double,System.Double,System.Double,System.String,System.Int32,System.Double,System.Double@,System.Double@,System.Double@,System.Double@)">
+	<summary>
+ Función que devuelve el ValorMercado por Caplet o Flooret.
+ </summary>
+</member><member name="M:VAR.Matematicas.ValorMercadoOST(System.Data.DataTable)">
+	<summary>
+ Función que devuelve el ValorMercado por Cap o Floor (Estrategias).
+ </summary>
+</member><member name="M:VAR.Matematicas.TasaForward(System.Int32,System.Double,System.Int32,System.Double,System.Int32)">
+	<summary>
+Funcion de Calculo de Tasa Forward
+ </summary>
+</member><member name="M:VAR.Matematicas.TipoCambioForward(System.Int64,System.Double,System.Int64,System.Double)">
+	<summary>
+Funcion de Calculo de Tipo de Cambio Forward
+ </summary>
+</member>
+</members>
+</doc>

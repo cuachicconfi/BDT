@@ -1,0 +1,23 @@
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\bin\Release\BDT.exe
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\bin\Release\BDT.pdb
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\bin\Release\BDT.xml
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\BDT.Resources.resources
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\BDT.vbproj.GenerateResource.Cache
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\BDT.exe
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\BDT.xml
+C:\Users\VaR-Vostro\AppData\Local\Temporary Projects\BDT\obj\Release\BDT.pdb
+C:\VaR\BDT\BDT\obj\Release\BDT.exe
+C:\VaR\BDT\BDT\obj\Release\BDT.xml
+C:\VaR\BDT\BDT\obj\Release\BDT.pdb
+C:\VaR\BDT\BDT\bin\Release\BDT.exe.config
+C:\VaR\BDT\BDT\bin\Release\BDT.exe
+C:\VaR\BDT\BDT\bin\Release\BDT.pdb
+C:\VaR\BDT\BDT\bin\Release\BDT.xml
+C:\VaR\BDT\BDT\bin\Release\VaR.Configuracion.dll
+C:\VaR\BDT\BDT\obj\Release\ResolveAssemblyReference.cache
+C:\VaR\BDT\BDT\obj\Release\BDT.Resources.resources
+C:\VaR\BDT\BDT\obj\Release\BDT.vbproj.GenerateResource.Cache
+C:\VaR\BDT\BDT\bin\Release\VarMatematicas.dll
+C:\VaR\BDT\BDT\bin\Release\VarMatematicas.xml
+C:\VaR\BDT\BDT\obj\Release\BDT.Form1.resources

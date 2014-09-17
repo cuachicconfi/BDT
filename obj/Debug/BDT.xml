@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BDT
+</name>
+</assembly>
+<members>
+<member name="M:BDT.clsBDT.#ctor(System.Data.DataTable,BDT.clsBDT.enumFrecuenciaDePago,System.Data.DataTable)">
+	<summary>
+ Constructor de la clase BDT
+ </summary>
+	<param name="_dtInicial">Valores Iniciales de la curva. En base 1 (no porcentual)</param>
+	<param name="_enumFrecuenciadePago">Frecuencia con la que se va a pagar</param>
+	<param name="_dtVolatilidad">Vector con la volatilidad</param>
+	<remarks></remarks>
+</member><member name="M:BDT.clsBDT.#ctor(BDT.clsBDT.enumCurvas,BDT.clsBDT.enumDuracion,BDT.clsBDT.enumFrecuenciaDePago)">
+	<summary>
+ Constructor de la clase BDT - Consigue los valores de las curvas
+ </summary>
+	<param name="_enumFrecuenciadePago">Frecuencia con la que se va a pagar</param>
+	<remarks></remarks>
+</member><member name="M:BDT.clsBDT.calibracion">
+	<summary>
+ Regresa la calibración del vector _dtInicial, el cuál da el menor error cuadrado dado el método BDT
+ </summary>
+	<returns>Calibración dado el vector _dtInicial</returns>
+	<remarks></remarks>
+</member><member name="M:BDT.clsBDT.calculaPrecio">
+	<summary>
+ Calcula el árbol de precios y regresa el valor del cupón.
+ </summary>
+	<returns>El valor del cupón</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
